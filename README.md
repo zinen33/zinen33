@@ -1,3 +1,8 @@
+
+## 📈 **إحصائيات GitHub**
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=zinen33&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zinen33&layout=compact&theme=radical)
+
 # 👋 أهلاً وسهلاً! أنا زينو
 
 ![Profile Views](https://komarev.com/ghpvc/?username=zinen33&color=blue)  
@@ -19,22 +24,12 @@
 ---
 
 ## 🌟 **مشاريع مميزة**
-- [**مشروعي الأول**](https://github.com/zinen33/project1): أداة لتحليل البيانات باستخدام Python.  
-- [**مشروعي الثاني**](https://github.com/zinen33/project2): موقع ويب بتصميم متجاوب باستخدام React.  
+- [**مشروعي الأول**](https://github.com/zinen33/LUNA-MI): بوت ميراي محذث.  
 
 ---
 
-## 📈 **إحصائيات GitHub**
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=zinen33&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zinen33&layout=compact&theme=radical)
+
 
 ---
 
-## 📫 **تواصل معي**
-- 🌐 [موقعي الشخصي](https://yourwebsite.com)  
-- 📧 [zinen33@example.com](mailto:zinen33@example.com)  
-- 💼 [LinkedIn](https://linkedin.com/in/zinen33)
-
----
-
-✨ **شكراً لزيارتك ملفي الشخصي! لا تنسى ترك ⭐ على المشاريع اللي عجبتك!** ✨
+✨ ## شكراً لزيارتك ملفي الشخصي! لا تنسى ترك ⭐ على المشاريع اللي عجبتك! ✨
